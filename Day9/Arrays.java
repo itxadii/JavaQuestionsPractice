@@ -7,4 +7,4 @@ public class Arrays {
 		String fruits[] = {"apple", "mango", "orange"};
 		System.out.println(fruits[0]);
 	}
-	}
+}
