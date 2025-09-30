@@ -9,7 +9,7 @@ public class PrintPairs {
         int tp = 0;
         for(int i=0; i<numbers.length; i++) {
             for(int j=i+1; j<numbers.length; j++) {
-                System.out.print("(" + numbers[i] + ", " + numbers[j] + ")");
+                System.out.print("(" + numbers[i] + ", " + numbers[j] + ") ");
                 tp++;
             }
             System.out.println();
