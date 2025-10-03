@@ -1,6 +1,6 @@
 package Day10;
 
-public class maxsumkadane {
+public class Maxsumkadane {
     public static void main(String args[]) {
         int numbers[] = {-5, -2, -3, -4}; // Try with negative only
         kadane(numbers);
